@@ -1,4 +1,4 @@
-package com.rl.listview
+package com.rl.remarkable
 
 import org.junit.Test
 
