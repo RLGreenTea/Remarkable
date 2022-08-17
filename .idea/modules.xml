@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListView.iml" filepath="$PROJECT_DIR$/.idea/modules/ListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListView.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListView.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListView.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListView.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Remarkable.iml" filepath="$PROJECT_DIR$/.idea/modules/Remarkable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Remarkable.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Remarkable.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Remarkable.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Remarkable.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Remarkable.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Remarkable.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Remarkable.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Remarkable.app.unitTest.iml" />
     </modules>
   </component>
 </project>
