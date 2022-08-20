@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Remarkable</string>
     <string name="button">I am Button</string>
+    <string name="contentDescription">I am contentDescription</string>
 </resources>
