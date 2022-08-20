@@ -33,7 +33,7 @@ android {
     android.applicationVariants.all {
         variant ->
             variant.outputs.all {
-                outputFileName = "ListView_${variant.name}_v${variant.versionName}.apk"
+                outputFileName = "Remarkable_${variant.name}_v${variant.versionName}.apk"
             }
     }
 
