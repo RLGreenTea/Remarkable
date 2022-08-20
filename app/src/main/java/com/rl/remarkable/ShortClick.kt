@@ -30,7 +30,7 @@ class ShortClick(private val context: Context, private val filePath: String): Vi
             .setCancelable(false)
             .setPositiveButton("Done") { _, _ ->
 
-                if(inputTitle.text.toString() != "" && inputContent.text.toString() == "") {
+                if(inputTitle.text.toString() != "" && inputContent.text.toString() != "") {
 
                     File(filePath).writeText(
                         JSON().read(filePath).put(
